@@ -6,4 +6,4 @@
 
 🤝 I thrive on collaborative projects and enjoy working with my team at Adama University.
 
-📧 For professional inquiries, feel free to reach me at Jaeferkemal@gmail.com.
+
