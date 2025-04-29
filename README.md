@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Docker, AWS, Expressjs**
 
-💬 Ask me about **Python, Django, Firebase... or anything [here](https://github.com/Jaefer-Kemal/Ask-Questions/issues)**
+💬 Ask me about **Python, Django, ... or anything [here](https://github.com/Jaefer-Kemal/Ask-Questions/issues)**
 
 ⚡ Fun fact **Python is older than Java, but has become more popular in the last decade**
 
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,django,firebase,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,django,c,java,mysql" /><br>
 </div>
 
 <br/>
