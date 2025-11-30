@@ -47,11 +47,10 @@
 <br>
 
 ### **IoT Light & Fan Control System**
-> An intelligent IoT system for monitoring and controlling room lighting and fan speed automatically or manually via a mobile app.
+> An intelligent IoT system for monitoring and controlling room lighting and fan speed automatically or manually via a Nextjs app.
 
 - **Hardware:** Programmed an **Arduino Uno** in **C/C++** to read sensor data (light, temperature) and actuate connected devices.
 - **Backend:** Developed a **NestJS** API to process incoming hardware data, bridged by a **Python script** for serial communication.
-- **Mobile App:** Created a controller application using **React Native (Expo)** for real-time monitoring and remote control.
 
 <br>
 
