@@ -4,15 +4,15 @@
 
 <h3 align="center">Software Developer | Backend & Full-Stack | Ethiopia 🇪🇹</h3>
 
+<br>
+
 <div align="center">
-
-🔹 Building scalable APIs and web applications using Python, Django, NestJS, and modern JavaScript frameworks.  
-🔹 Experienced in designing RESTful APIs, database modeling, and cross-platform applications.  
-🔹 Passionate about clean architecture, performance optimization, and collaborative development.  
-
+  🔹 I specialize in building high-quality, scalable web applications and RESTful APIs. <br>
+  🔹 My expertise lies in using Python (Django) and TypeScript (NestJS) for robust backend solutions. <br>
+  🔹 Passionate about clean architecture, solving complex problems, and optimizing performance.
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 15px;">
   <a href="mailto:jaeferkemal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -22,49 +22,51 @@
   <a href="https://github.com/Jaefer-Kemal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1euQ8_IqpqdYKucYdKC_6vlodTya0iyEq/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ Technical Skills ⚡</h2>
 <div align="center" style="margin-top: 10px;">
-<img src="https://skillicons.dev/icons?i=python,django,flask,go,nodejs,react,nextjs,typescript,javascript,html,css,postgres,mongodb,git,docker,aws,vscode,tailwind" />
+<img src="https://skillicons.dev/icons?i=typescript,python,javascript,go,nestjs,django,nodejs,react,nextjs,electron,postgres,mongodb,git,docker,aws,tailwind,vscode" />
 </div>
 
 <hr/>
 
-<h2 align="center">🚀 Projects & Contributions 🚀</h2>
+<h2 align="center">🚀 My Projects 🚀</h2>
 
-<div align="center">
+<br>
 
-**GitTracker** – NestJS, MongoDB, Next.js, Electron  
-- Full-stack platform for tracking Git repositories, analyzing productivity via commit history, branch activity, and contribution patterns.  
-- Backend: NestJS + MongoDB, JWT auth, RBAC, REST APIs, documented with Swagger.  
-- Frontend: Next.js dashboard with real-time analytics and team collaboration features.  
-- Electron desktop app to sync local repositories and CI/CD with GitHub Actions.  
+### **Git Tracker & Analytics Platform**
+> A full-stack application designed to track Git repositories and provide insights into developer productivity and project velocity.
 
-**IoT Light & Fan Control System** – Arduino, Flask, Next.js  
-- Automatic/manual control of lights and fan using Arduino sensors.  
-- COM-to-COM communication between Arduino and Python Flask backend.  
-- Web dashboard in Next.js for remote monitoring and control.  
+- **Backend:** Architected a scalable RESTful API with **NestJS** and **MongoDB**, featuring JWT authentication and Role-Based Access Control (RBAC). Documented all endpoints with **Swagger (OpenAPI)**.
+- **Frontend:** Developed a data-rich dashboard using **Next.js** to display real-time analytics on commit history, branch activity, and contribution patterns.
+- **Desktop & DevOps:** Built a cross-platform desktop client with **Electron** to sync local repositories. Implemented a full CI/CD pipeline with **GitHub Actions** for automated testing and deployment.
 
-**Inventory Management System** – Django REST Framework, PostgreSQL  
-- RESTful API managing sales, purchases, warehouses, products, and users.  
-- JWT authentication, role-based access, and admin dashboard.  
-- Advanced features: pagination, filtering, stock tracking, warehouse transfer, audit logging.
+<br>
 
-</div>
+### **IoT Light & Fan Control System**
+> An intelligent IoT system for monitoring and controlling room lighting and fan speed automatically or manually via a mobile app.
+
+- **Hardware:** Programmed an **Arduino Uno** in **C/C++** to read sensor data (light, temperature) and actuate connected devices.
+- **Backend:** Developed a **NestJS** API to process incoming hardware data, bridged by a **Python script** for serial communication.
+- **Mobile App:** Created a controller application using **React Native (Expo)** for real-time monitoring and remote control.
+
+<br>
+
+### **Inventory Management System API**
+> A comprehensive RESTful API built to manage sales, purchases, warehouses, products, and user roles for an inventory system.
+
+- **API:** Developed using **Django REST Framework** and **PostgreSQL**, with secure endpoints protected by JWT authentication and permission classes.
+- **Features:** Implemented advanced functionalities including pagination for large datasets, search/filtering, stock tracking, inter-warehouse transfers, and detailed audit logging.
 
 <hr/>
 
 <h2 align="center">🏆 Achievements & Recognition 🏆</h2>
 <div align="center">
-- Quarterfinalist – A2SV Hackathon 2024  
-- Top 19 in Ethiopian Collegiate Programming Contest 2025 (90+ teams), Top 5 at ASTU  
-- Contributed to cross-platform and full-stack projects for real-world applications  
+- **Top 20 Finish** – Ethiopian Collegiate Programming Contest 2025 (out of 90+ teams) <br>
+- **Quarterfinalist** – A2SV Inter-University Hackathon 2024
 </div>
 
 <hr/>
